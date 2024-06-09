@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 Hello I'm Heesang, I Studying Programming And I Want to be a BackEnd Programmer
 
+- Blog : [Velog]https://velog.io/@kwak98hs/posts
+
 <h3 align="center">✨ Tech ✨</h3>
 
 <div align = "center"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
